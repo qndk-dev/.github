@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://qndk.fun/"><img src="https://img.shields.io/badge/Сайт-qndk.fun-blue" alt="Веб-сайт"></a>
   <a href="https://discord.com/invite/QJZrPhNQPP"><img src="https://img.shields.io/badge/Discord-Присоединиться-7289DA?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://github.com/qndk"><img src="https://img.shields.io/badge/GitHub-qndk-181717?logo=github" alt="GitHub"></a>
+  <a href="https://github.com/qndk-dev"><img src="https://img.shields.io/badge/GitHub-qndk-dev-181717?logo=github" alt="GitHub"></a>
 </p>
 
 ## О нас
