@@ -1,7 +1,7 @@
 # QNDK
 
 <p align="center">
-  <img src="assets/qndk-banner.png" alt="Баннер QNDK" width="100%">
+  <img src="../assets/qndk-banner.png" alt="Баннер QNDK" width="100%">
 </p>
 
 <p align="center">
